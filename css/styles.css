@@ -10862,6 +10862,11 @@ section {
   padding-bottom: 1rem;
   background-color: #fff;
 }
+
+#padding-mainNav{
+  width: 90%;
+}
+
 #mainNav .navbar-brand {
   font-family: "Outfit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
